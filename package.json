@@ -5,7 +5,7 @@
   "version": "0.1.3",
   "private": true,
   "author": {
-    "url": "https://www.blog.flystormrain.top",
+    "url": "https://blog.flystormrain.top",
     "name": "FlyStormrain"
   },
   "scripts": {
@@ -30,9 +30,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/YunYouJun/air-conditioner"
+    "url": "https://github.com/FlyStoramrain/air-conditioner"
   },
-  "homepage": "https://ac.yunyoujun.cn/",
+  "homepage": "https://ac.songyu.fun/",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
